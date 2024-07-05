@@ -1,0 +1,34 @@
+ERROR: message error - LogFileMixin
+SUCCESS: message success - LogFileMixin
+ERROR: message error - LogFileMixin
+SUCCESS: message success - LogFileMixin
+ERROR: message error - LogFileMixin
+SUCCESS: message success - LogFileMixin
+SUCCESS: Galaxy esta ligado - Smartphone
+ERROR: erro - Smartphone
+SUCCESS: success - Smartphone
+SUCCESS: Galaxy esta ligado - Smartphone
+SUCCESS: success - Smartphone
+ERROR: Galaxy esta Desligado - Smartphone
+ERROR: erro - Smartphone
+SUCCESS: Galaxy esta ligado - LogFileMixin
+SUCCESS: Galaxy esta ligado - LogFileMixin
+SUCCESS: Galaxy esta ligado - LogFileMixin
+SUCCESS: Galaxy esta ligado - LogFileMixin
+SUCCESS: Ligou - LogFileMixin
+ERROR: Galaxy esta Desligado - LogFileMixin
+ERROR: Desligou - LogFileMixin
+SUCCESS: Galaxy esta ligado - Smartphone
+SUCCESS: Ligou - Smartphone
+ERROR: Galaxy esta Desligado - Smartphone
+ERROR: Desligou - Smartphone
+SUCCESS: Galaxy esta ligado - LogFileMixin
+SUCCESS: Ligou - LogFileMixin
+ERROR: Galaxy esta Desligado - LogFileMixin
+ERROR: Desligou - LogFileMixin
+SUCCESS: Galaxy esta ligado - Smartphone
+SUCCESS: Ligou - Smartphone
+ERROR: Galaxy esta Desligado - Smartphone
+ERROR: Desligou - Smartphone
+SUCCESS: Galaxy esta ligado - Smartphone
+ERROR: Galaxy esta Desligado - Smartphone
